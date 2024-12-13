@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+    box-shadow: 0px 1px 5px rgba(192, 192, 192, 0.7);
+    height: 58px;
+}
+a{
+    text-decoration: none;
+    color: #212121;
+}
+.links{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.links a{
+    margin-left: 10px;
+}
+.links a:hover{
+    font-weight: 500;
+    transition-duration: 1s;
+}
+.logo{
+    font-size: 38px;
+    font-weight: bold;
+}
+.span{
+    color: #5C1CDE;
+}
+@media  screen and (max-width:600px){
+    .links{
+        display: none;
+    }
+}

@@ -1,0 +1,70 @@
+.footer{
+    max-height: auto;
+    width: auto;
+    background-color: rgb(7, 7, 44);
+    background-image: linear-gradient(to right, #4C01E3,#2A007D);
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.title{
+    margin-bottom: 10px;
+}
+.title p{
+    font-weight: 600;
+}
+.container{
+    height: 100%;
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+.top{
+    margin-bottom: 10px;
+}
+.about-us{
+    width: 40%;
+}
+
+.trending{
+    width: 30%;
+}
+.site-links{
+    width: 30%;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 0px;
+}
+.payment-icon{
+    margin: 5px;
+}
+.point{
+    width: 24px;
+    height: 24px;
+    margin: 2px;
+    margin-left: 0px;
+}
+#insta-icon{
+    width: 35px;
+    height: 35px;
+}
+.social-links{
+    display: flex;
+    align-items: center;
+}
+.social-icon{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}

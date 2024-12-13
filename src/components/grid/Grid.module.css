@@ -1,0 +1,71 @@
+.gridContainer{
+    /* width:500px;
+    height: 500px; */
+    height: 373px;
+    width: 550px;
+    box-shadow: 0px 0px 3px rgb(187, 186, 186);
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+
+}
+
+.grid{
+    box-shadow: 0px 0px 3px rgb(187, 186, 186);
+    width: 141px;
+    height: 87px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    padding: 5px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+.grid .grid-n{
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    font-size: 29px;
+    font-weight: bold;
+}
+.grid .grid-t{
+    font-size: 14px;
+    display: -webkit-box;           /* Required for limiting lines */
+  -webkit-box-orient: vertical;  /* Specifies the vertical layout of the box */
+  overflow: hidden;              /* Hides the overflow content */
+  text-overflow: ellipsis;       /* Adds ellipsis for overflow text */
+  -webkit-line-clamp: 5;
+  cursor: pointer; 
+    
+}
+.grid .grid-f{
+    display: flex;
+    justify-content: flex-end;
+    text-align: end;
+
+}
+.box{
+    background-color: #BEF7DB;
+    width: 55px;
+    height: 21px;
+    padding: 3px;
+    text-align: center;
+    border-radius:10px 0px 4px 0px ;
+    font-weight: bold;
+
+}
+
+@media screen and (max-width:600px){
+    .gridContainer{
+        width: 90%;
+    }
+    .grid{
+        width: auto;
+        min-width: 70px;
+
+    }
+}
