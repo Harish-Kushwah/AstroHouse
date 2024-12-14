@@ -3,8 +3,11 @@
 import "./product.css"
 import { CiShoppingCart } from "react-icons/ci";
 import { CiHeart } from "react-icons/ci";
+import ScrollAnimation from 'react-animate-on-scroll';
+
 function ProductCard({product}) {
   return (
+    <ScrollAnimation  animateIn='fadeIn'>
     <div className="product-card">
         <div className={product.selling_type ? "discount-badge-selling":"discount-badge-dis"} >
         {product.selling_type  && <p className="best-selling">{product.selling_type}</p>} 
@@ -43,6 +46,8 @@ function ProductCard({product}) {
         </div>
         </div>
     </div>
+  </ScrollAnimation>
+
   )
 }
 

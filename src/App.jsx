@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/Home/Home';
 import Products from './pages/Products/Products';
 import Layout from './pages/Layout/Layout';
+import "animate.css/animate.compat.css"
 
 function App() {
   return (

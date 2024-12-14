@@ -4,6 +4,7 @@ import ProductCard from "../product/ProductCard";
 function ProductContainer({section}) {
   console.log(section.products)
   return (
+
     <div className="product-container">
         <div className="product-header">
             <p className="product-title">{section.title}</p>
@@ -12,8 +13,8 @@ function ProductContainer({section}) {
         <div className="all-products">
           {section.products.map((product)=><ProductCard product={product} key={product.title}> </ProductCard>)}
         </div>
-
     </div>
+  
   )
 }
 

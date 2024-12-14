@@ -60,6 +60,113 @@
             ]
 
             
+        },
+        {
+            "title":"Top Selling Lucky Bracelate",
+            "subtitle":"According to Your Missing Numbers",
+            "products":[
+                {
+                    "title":"Money Magnet",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/yellow_citrine_lucky_bracelet_main_product_image_222_5ca567fa-6405-4899-80d2-71d4ccc3cacd.webp?v=1733302559&width=713",
+                    "old_price":"Rs.599",
+                    "new_price":"Rs.399",
+                    "missing_numbers":["4","5","6"],
+                    "selling_type":"Best Selling",
+                    "discount":"30%"
+                },
+                {
+                    "title":"Black Banded Agate Onyx Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/black_banded_agate_onyx_lucky_bracelet_main_product_image_222_dea15be9-e471-46a0-9622-569572504514.webp?v=1733302886&width=713",
+                    "old_price":"Rs.600",
+                    "new_price":"Rs.550",
+                    "missing_numbers":["9"],
+                    "selling_type":null,
+                    "discount":null
+                },
+                {
+                    "title":"Money Maker Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/money_maker_wishful_bracelet_main_product_image_204_22cbf7cf-8008-45db-8b0c-e5736412939f.jpg?v=1721636119&width=823",
+                    "old_price":"Rs.1050",
+                    "new_price":"Rs.690",
+                    "missing_numbers":["5","1"],
+                    "selling_type":null,
+                    "discount":"-34%"
+                },
+                {
+                    "title":"Tiger Eye Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/tiger_eye_lucky_bracelet_main_product_image_204.webp?v=1733302423&width=713",
+                    "old_price":"Rs.600",
+                    "new_price":"Rs.550",
+                    "missing_numbers":["6"],
+                    "selling_type":"Trending",
+                    "discount":null
+                },
+                {
+                    "title":"Money Maker Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/money_maker_wishful_bracelet_main_product_image_204_22cbf7cf-8008-45db-8b0c-e5736412939f.jpg?v=1721636119&width=823",
+                    "old_price":"Rs.1050",
+                    "new_price":"Rs.690",
+                    "missing_numbers":["5","1"],
+                    "selling_type":null,
+                    "discount":"-34%"
+                },
+                {
+                    "title":"Money Maker Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/money_maker_wishful_bracelet_main_product_image_204_22cbf7cf-8008-45db-8b0c-e5736412939f.jpg?v=1721636119&width=823",
+                    "old_price":"Rs.1050",
+                    "new_price":"Rs.690",
+                    "missing_numbers":["5","1"],
+                    "selling_type":null,
+                    "discount":"-34%"
+                }
+            ]
+
+            
+        },
+        {
+            "title":"Top Selling Lucky Bracelate",
+            "subtitle":"According to Your Missing Numbers",
+            "products":[
+                {
+                    "title":"Money Magnet",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/yellow_citrine_lucky_bracelet_main_product_image_222_5ca567fa-6405-4899-80d2-71d4ccc3cacd.webp?v=1733302559&width=713",
+                    "old_price":"Rs.599",
+                    "new_price":"Rs.399",
+                    "missing_numbers":["4","5","6"],
+                    "selling_type":"Best Selling",
+                    "discount":"30%"
+                },
+                {
+                    "title":"Black Banded Agate Onyx Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/black_banded_agate_onyx_lucky_bracelet_main_product_image_222_dea15be9-e471-46a0-9622-569572504514.webp?v=1733302886&width=713",
+                    "old_price":"Rs.600",
+                    "new_price":"Rs.550",
+                    "missing_numbers":["9"],
+                    "selling_type":null,
+                    "discount":null
+                },
+                {
+                    "title":"Money Maker Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/money_maker_wishful_bracelet_main_product_image_204_22cbf7cf-8008-45db-8b0c-e5736412939f.jpg?v=1721636119&width=823",
+                    "old_price":"Rs.1050",
+                    "new_price":"Rs.690",
+                    "missing_numbers":["5","1"],
+                    "selling_type":null,
+                    "discount":"-34%"
+                },
+                {
+                    "title":"Tiger Eye Bracelet ",
+                    "image_url":"https://www.pandit.com/cdn/shop/files/tiger_eye_lucky_bracelet_main_product_image_204.webp?v=1733302423&width=713",
+                    "old_price":"Rs.600",
+                    "new_price":"Rs.550",
+                    "missing_numbers":["6"],
+                    "selling_type":"Trending",
+                    "discount":null
+                }
+            ]
+
+            
         }
+
     ]
 }
